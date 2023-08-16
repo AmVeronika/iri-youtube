@@ -1,0 +1,2 @@
+(()=>{"use strict";setTimeout((function(){var e=document.querySelector("body"),t=document.getElementById("preloader");t.classList.add("hide"),e.style.height="100%",e.style.overflowY="auto",setTimeout((function(){t.remove()}),350)}),2500),function(){console.log("start project")}&&console.log("animate started")})();
+//# sourceMappingURL=app.js.map

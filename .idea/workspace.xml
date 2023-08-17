@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fd143bb-6f69-43a1-b280-0fc1757759f6" name="Changes" comment="Make changes according to the amendments" />
+    <list default="true" id="1fd143bb-6f69-43a1-b280-0fc1757759f6" name="Changes" comment="Fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +104,7 @@
       <workItem from="1692191704160" duration="231000" />
       <workItem from="1692193519710" duration="338000" />
       <workItem from="1692267189430" duration="34000" />
+      <workItem from="1692268604828" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1692175893189</created>
@@ -147,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692267215412</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fix">
+      <created>1692268621622</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692268621622</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +178,7 @@
     <MESSAGE value="Add author" />
     <MESSAGE value="Add dist" />
     <MESSAGE value="Make changes according to the amendments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make changes according to the amendments" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
   </component>
 </project>
